@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Silky Smooth Beats",
+    "onSale": false,
+    "tags": ["Headphone", "People"],
+    "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 20000,
+    "salePrice": null,
+    "ratings": 4.0
+  },
+  {
+    "id": 2,
+    "name": "Lady Luck Is Smiling",
+    "onSale": true,
+    "tags": ["Perfume", "Women"],
+    "image": "https://images.pexels.com/photos/6062560/pexels-photo-6062560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 3500,
+    "salePrice": 3000,
+    "ratings": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Green Nike Zoom",
+    "onSale": true,
+    "tags": ["Nike", "Men"],
+    "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 10500,
+    "salePrice": 9000,
+    "ratings": 4.5
+  },
+  {
+    "id": 4,
+    "name": "New Home Living Room Set",
+    "onSale": false,
+    "tags": ["Home", "Pretty"],
+    "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 100500,
+    "salePrice": null,
+    "ratings": 4
+  },
+  {
+    "id": 5,
+    "name": "Classic Man Watch",
+    "onSale": true,
+    "tags": ["Watch", "Men"],
+    "image": "https://images.pexels.com/photos/3210711/pexels-photo-3210711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+    "price": 50500,
+    "salePrice": 40000,
+    "ratings": 3.5
+  }
+]

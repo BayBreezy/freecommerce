@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "types": [
+      "@nuxt/types",
+      "@nuxtjs/vuetify",
+      "@nuxt/content",
+      "vue-sweetalert2"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"],
+      "~~/*": ["./*"],
+      "@@/*": ["./*"]
+    }
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"]
+}
